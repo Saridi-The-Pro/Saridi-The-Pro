@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saridi
-- 👀 I’m interested in Programming Python Language
-- 🌱 I’m currently learning Python, Java, Web 
+- 👀 I’m interested in the Python programming language
+- 🌱 I’m currently learning Python, Java, and HTML
 - 📫 How to reach me: DM me on Instagram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I already studied Python Start and self-taught when I was 13 in grade 8. However, I studied Java in school and HTML self-taught when I was 14 in grade 9.
